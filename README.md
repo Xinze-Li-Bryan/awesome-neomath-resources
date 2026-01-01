@@ -60,6 +60,8 @@
   - [Courses](#courses)
   - [Blogs & Newsletters](#blogs--newsletters)
 - [Research & Papers](#research--papers)
+  - [Preprint Platforms](#preprint-platforms)
+  - [Landmark Papers](#landmark-papers)
 - [Communities](#communities)
 - [People](#people)
 
@@ -742,6 +744,13 @@
 - [Quanta Magazine](https://www.quantamagazine.org/mathematics/) - Quality math journalism
 
 ## Research & Papers
+
+### Preprint Platforms
+
+- [aiXiv](https://aixiv.science/) - Next-generation preprint server for AI scientists with multi-agent review system ([GitHub](https://github.com/aixiv-org/aiXiv))
+- [arXiv](https://arxiv.org/) - Open-access preprint repository for scientific papers
+
+### Landmark Papers
 
 <!-- TODO: Add landmark papers -->
 
