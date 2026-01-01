@@ -261,7 +261,7 @@
 
 - [Acorn](https://github.com/acornprover/acorn) - AI-integrated theorem prover by Kevin Lacker
 - [Andromeda](https://github.com/Andromedans/andromeda) - Type theory with equality reflection
-- [LiteX](https://github.com/litexlang/golitex) - Minimalist formal language for mathematical proofs
+- [litex](https://github.com/litexlang/golitex) - Simple formal language learnable in 2 hours ([Website](https://litexlang.com))
 - [Liquid Haskell](https://github.com/ucsd-progsys/liquidhaskell) - Refinement types for Haskell
 - [Rzk](https://github.com/rzk-lang/rzk) - Proof assistant for simplicial type theory
 
