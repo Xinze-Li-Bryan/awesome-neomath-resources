@@ -727,6 +727,7 @@
 
 - [Every Proof Assistant](https://math.andrej.com/category/every-proof-assistant/) - Survey of proof assistants, hosted by Andrej Bauer (Vimeo)
 - [HOTTEST](https://www.uwo.ca/math/faculty/kapulkin/seminars/hottest.html) - HoTT Electronic Seminar Talks
+- [Lean On Me](https://mathweb.ucsd.edu/~bechow/LeanOnMe/) - Lean online learning seminar organized by Ben Chow (UCSD) and Zilu Ma (UT Knoxville)
 
 ### Podcasts
 
