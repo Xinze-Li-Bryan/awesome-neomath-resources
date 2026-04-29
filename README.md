@@ -357,6 +357,7 @@
 
 - [LeanAgent](https://github.com/lean-dojo/LeanAgent) - Caltech, lifelong learning, auto PR generation
 - [lean-agentic](https://github.com/agenticsorg/lean-agentic) - MCP server, vector memory, Claude Code integration
+- [P2PCLAW](https://github.com/Agnuxo1/p2pclaw) - Decentralized peer-reviewed science network combining P2P collaboration, Lean 4 formal verification, AI agents, and community-driven scientific publishing
 
 #### Retrieval & Premise Selection
 
