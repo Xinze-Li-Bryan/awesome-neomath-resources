@@ -701,6 +701,7 @@
 ## Tools & Platforms
 
 <!-- TODO: Add more tools -->
+- [Jacobian](https://github.com/morluto/jacobian) - MCP server, CLI, and Python library for composable mathematics: exact computation and conjecture testing across polynomial maps, linear algebra, and graph algorithms
 
 ## Learning Resources
 
